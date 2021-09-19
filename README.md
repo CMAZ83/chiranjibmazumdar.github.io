@@ -35,6 +35,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+Reference: https://chriskhanhtran.github.io/_posts/2020-01-13-portfolio-tutorial/
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
