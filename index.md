@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Science with Python 
 
-[Nobel Prize Analysis](/sample_page)
+[Nobel Prize Analysis](https://app.datacamp.com/workspace/w/b05e2f2c-251a-40a3-a43e-acf57421dd39)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
