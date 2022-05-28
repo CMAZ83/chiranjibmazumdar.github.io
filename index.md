@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Project 2 The Android App Market on Google Play](https://app.datacamp.com/workspace/w/48267e82-02b7-424e-84b2-b153b68a8ffd)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/android.JPG?raw=true"/>
 
 [Project 3 Generating Keywords for Google Ads](https://app.datacamp.com/workspace/w/39955348-0132-42ff-923d-da130207b92a)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
