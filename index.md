@@ -28,7 +28,9 @@
 <sub>*data manipulation, data visualization, programming, case studies*</sub><br /><br />
 <img src="images/netflix.JPG?raw=true" width=200/>
 
-
+[Project 7 Gender Prediction with sound](https://app.datacamp.com/workspace/w/539582b0-87fe-4141-b5c5-b67d53453ec9#8-raising-the-bar)<br />
+<sub>*data manipulation, data visualization, case studies*</sub><br /><br />
+<img src="images/gender.JPG?raw=true" width=200/>
 
 
 
