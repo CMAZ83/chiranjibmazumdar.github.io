@@ -1,8 +1,8 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
-### Data Science with Python 
+### Python Projects
 
 [Project 1 Nobel Prize Analysis](https://app.datacamp.com/workspace/w/b05e2f2c-251a-40a3-a43e-acf57421dd39)<br />
 <sub>*data manipulation, data visualization, importing and cleaning data*</sub><br /><br />
