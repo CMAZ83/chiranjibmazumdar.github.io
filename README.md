@@ -4,8 +4,6 @@
 
 My data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages. This is very much a work in progress.
 
-<img src="images/demo.gif?raw=true"/>
-
 
 Reference: https://chriskhanhtran.github.io/_posts/2020-01-13-portfolio-tutorial/
 ```
