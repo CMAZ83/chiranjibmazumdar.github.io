@@ -32,6 +32,10 @@
 <sub>*data manipulation, data visualization, case studies*</sub><br /><br />
 <img src="images/gender.JPG?raw=true" width=200/>
 
+[Project 8 Baseball Analysis](https://github.com/CMAZ83/datacamp-baseball-analysis/blob/main/Project%20-%20Baseball%20analysis.ipynb)<br />
+<sub>*importing & cleaning data, data manipulation, data visualization, case studies*</sub><br /><br />
+<img src="images/baseball.JPG?raw=true" width=200/>
+
 
 
 ---
